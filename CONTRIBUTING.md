@@ -9,7 +9,7 @@ For **new features**, **new artifacts** or **major changes**, contributors must 
 doing any work.
 
 This ensures public visibility and allows maintainers to review proposals
-before implementation begins. 
+before implementation begins.
 
 **RFC titles must start with `RFC:` prefix**, e.g. `RFC: Add support for X`.
 
