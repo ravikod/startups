@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to ``awslabs/startups``.
+Thank you for your interest in contributing to `awslabs/startups`.
 
 ## RFCs for New Features, Artifacts, and Major Changes
 

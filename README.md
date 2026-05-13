@@ -9,7 +9,7 @@ This repository hosts plugins, MCPs, and tools built by the AWS Startups team, d
 ## Tools
 
 | Tool | Description | Status |
-|------|-------------|--------|
+| ---- | ----------- | ------ |
 
 ...to be continued
 
