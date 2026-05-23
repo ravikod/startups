@@ -31,7 +31,7 @@ Point this plugin at your codebase, Terraform files, or GCP billing data. It run
 
 | Plugin               | Description                                                                                                                                     | Status    |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **migrate-to-aws** | Migrate GCP infrastructure and AI/agentic workloads to AWS with resource discovery, architecture mapping, cost analysis, and execution planning | Available |
+| **migration-to-aws** | Migrate GCP infrastructure and AI/agentic workloads to AWS with resource discovery, architecture mapping, cost analysis, and execution planning | Available |
 
 ## Installation
 
